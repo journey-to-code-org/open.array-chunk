@@ -1,6 +1,6 @@
 {
-  "name": "@journey-to-code/open-array-chunk",
-  "version": "1.0.0",
+  "name": "@journey-to-code/array-chunk",
+  "version": "1.0.1",
   "description": "Dependency-free array chunking into fixed-size batches.",
   "type": "module",
   "main": "./src/index.js",
@@ -31,5 +31,13 @@
     "utility"
   ],
   "license": "MIT",
-  "sideEffects": false
+  "sideEffects": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/journey-to-code-org/open.array-chunk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/journey-to-code-org/open.array-chunk/issues"
+  },
+  "homepage": "https://github.com/journey-to-code-org/open.array-chunk#readme"
 }

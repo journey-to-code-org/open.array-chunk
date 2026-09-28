@@ -5,7 +5,7 @@ Dependency-free array chunking into fixed-size batches.
 ## Install
 
 ```bash
-npm install @journey-to-code/open-array-chunk
+npm install @journey-to-code/array-chunk
 ```
 
 ## Usage
